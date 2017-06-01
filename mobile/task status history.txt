@@ -1,0 +1,42 @@
+history status
+
+order
+11 Delivered order 	hijau
+12 shipping order 	primary
+13 Ready Order		info
+14 Canceled Order	danger
+
+customer
+21 New customer		default
+22 Update		Gold
+23 Delete		Gold
+
+
+admin
+31 New user		lime
+32 Update user		aqua
+33 Delete user		dark red
+
+category
+41 New Category		coklat
+42 Update Category	abu abu
+43 delete Category	hitam
+
+
+suggestion
+51 New Suggestion 	warning
+
+
+setting
+61 Update Setting	ungu
+
+Product
+71 New Product		yellow
+72 Update Product	orange
+73 Delete Product	pink
+
+
+
+
+"<article><a href=\"\"><div class=\"article-img-pane\"><img src=\"/uploads/product/12/uyusfba60iy3tcrznmrn.jpg\" /></div><h2>Baju terbaik</h2><div class=\"prod-pricePane\"><span class=\"current-price pull-right\">12000</span></div></a><div class=\"a-meta\"><span><i class=\"fa fa-thumbs-up\">122</i></span><div class=\"products-ratings\"><i class=\"fa fa-star\"></i><i class=\"fa fa-star\"></i><i class=\"fa fa-star\"></i><i class=\"fa fa-star\"></i><i class=\"fa fa-star-half-empty\"></i></div></div></article>"
+
